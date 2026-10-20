@@ -1,4 +1,4 @@
-# Sentiment Analysis and Recommendation System on Amazon Reviews
+### Sentiment Analysis and Recommendation System on Amazon Reviews
 
 This repository contains the project for the course Data Mining Techniques at the National and Kapodistrian University of Athens (NKUA).
 
